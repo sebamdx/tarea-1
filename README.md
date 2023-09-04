@@ -1,0 +1,4 @@
+Dentro del codigo, en la funcion registrarLibro, hay un fallo que ocurre en ciertas ocaciones, que es cuando agregamos la ubicación del Libro, hay veces que nos pide ingresar la ubicación del libro y hay veces que no, el motivo por el cual se nos presenta este error no lo sabemos con certeza ya que lo hicimos de la misma manera para agregar las otras informaciones del libro.
+Para la ejecución de nuestro programa hay que correr el codigo, luego se abrira el menu y debe escojer la funcion que deseas realizar con esto te llevara a cada opcion y solo debes rellenar la informacion que te pide el programa
+Miguel Fuentes: La contribución que hice en este trabajo esta basada en la implementación de algunas funciones y de como podiamos usar las estructuras, me coloco un 10/10.
+Sebastian Madariaga yo contribui haciendo las funciones e implementando el uso de las structs, asi como ayudando a terminar el main me doy un 10/10
